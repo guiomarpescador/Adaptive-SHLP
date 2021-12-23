@@ -1,6 +1,8 @@
 # Adaptive-SHLP
 Repository for 4th Year Project Mathematics University of Edinburgh: Adaptive Single Hidden Layer Perceptrons
 
+You can find the abstract of the project above. To read the full project please contact any of the group members. 
+
 The Template file contains all the necessary functions to run the Adaptive SHLP with activation function SReLU. The rest of the code follows from that example. 
 
 The folders follow the same structure as the project itself and contains always two training methods Gradient Descent and Stochastic Gradient Descent. 
